@@ -8,7 +8,7 @@ Contributors :
 
 ## Robert your personal development chatbot
 
-For an academic project, we create a bot : Robert. You can talk with him about many things. But try to speak with him, you will see that he has a particularity : Robert tends to rebel.
+For an academic project, we created a bot : Robert. You can talk with him about many things. But try to speak with him, you will see that he his a bit special : Robert is a bit of a rebel.
 
 Technologies used :
 
